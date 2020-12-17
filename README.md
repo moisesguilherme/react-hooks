@@ -1,5 +1,5 @@
 <h1 align="center">
-	Advanced react-hooks
+	Advanced react-hooks - by https://github.com/vitormalencar/
 </h1>
 <br>
 <br>
