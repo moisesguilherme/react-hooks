@@ -14,7 +14,7 @@
 Clone the repository.
 
 ```sh
-git clone https://github.com/vitormalencar/
+git clone https://github.com/moisesguilherme/react-hooks.gi
 ```
 
 `cd` into the directory.
